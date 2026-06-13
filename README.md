@@ -1,5 +1,5 @@
 # Trabajo_individual
-# 🖼️ Procesamiento de Imágenes - Trabajo Individual
+#  Procesamiento de Imágenes - Trabajo Individual
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3.3-green.svg)](https://flask.palletsprojects.com/)
@@ -18,7 +18,7 @@ Aplicación web que implementa tres algoritmos de procesamiento de imágenes tra
 
 ---
 
-## 🚀 Instalación y Ejecución
+##  Instalación y Ejecución
 
 ### Requisitos previos
 
