@@ -14,7 +14,7 @@ Aplicación web que implementa tres algoritmos de procesamiento de imágenes tra
 |--------|-------------|
 | **A** | Clasificación de texturas (césped, tierra, cemento, asfalto) |
 | **B** | Filtro de suavizado promedio 3×3 |
-| **C** | Cover "La Vaca Lola" con animación sincronizada (estilo Bad Bunny) |
+| **C** | Cover "La Vaca Lola" con animación  |
 
 ---
 
